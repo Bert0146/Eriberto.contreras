@@ -1,8 +1,8 @@
-# Eriberto.contreras
+### Hi there :)
 
 
-
-#Hello friends and all peoples alike, welcome to my coding page... I hope that my work on this page is able to reflect my progression as I better understand coding and my career as a future Data Engineer/Scientist...
-
-#lets begin.....
-
+--- I am currently working on codeup fundamentals...
+- I am currently learning the basics of terminal and python..
+-I am looking for help on improving my skills for the future.
+--fun fact: I have worked on the external field and infustructure side of electrical and data grids the majority of my life... this will be my first time diving into the internal side of electrical and mechanical learning systems.
+---->
