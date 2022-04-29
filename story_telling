@@ -87,3 +87,82 @@ do you know how your story will be delivered?
        -report
        -email 
        -improvised meeting
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Trello demo
+
+       Boards and tasks assigned to you 
+
+       3 Step Process to Analyzing Your Data (General case)
+Define your goal, why this matters, your target variable, initial hypotheses (write these down)
+
+Get to know your data: obtain a 10,000 ft view of your data before diving in (write down what you learn/discover)
+
+Answer your initial hypotheses questions with visuals and statistics (write down takeaways as you go)
+
+Step 1: Define your goal. What's the impact? Who benefits? Why does this matter?
+
+Take lots of written or typed notes here.
+
+What, exactly, are you seeking to understand?
+
+Define your target variable. Does one exist in your dataset?
+
+Define your initial hypotheses: literally write them down
+
+Are the stakeholders hoping to confirm or deny something already? That's a good start.
+What initial hunches do you have? How could you confirm or deny them?
+
+Are there industry based hunches you can confirm or deny?
+
+If you have data from your industry, how does your dataset compare?
+
+Based on the columns you have, do you see anything you know you need to look at?
+
+Define your Minimum Viable Product (MVP)
+
+How do you know when you're done?
+
+How do you know when you've got something to deliver?
+
+If something seems interesting but out of scope, add it to your backlog and get back to the heart of the matter
+
+
+
+
+
+
+Step 2: Get to know your data at a high level
+
+Dump out all your legos and take inventory of what you have
+
+Take lots of written or typed notes as you move through these steps)
+
+Hunt down a data dictionary that explains what each column of your data is or represents.
+This may mean talking to people
+This may mean having coffee w/ someone from accounting to pick their brain
+
+Determine if there's any columns needing cleaning or a change in data type
+
+Hunt for any nulls or missing data. Write down how you handle them. There's no one right answer.
+
+What's the distribution of your target variable? What about your most interesting variables?
+
+
+
+Step 3: Answer your initial hypotheses with visuals and statistics
+
+Always write down your takeaways as you learn or reveal them
+
+Use visuals, descriptive stats, and inferential stats to answer your hypotheses
+
+Start with one hypothesis at a time.
+
+Visualize and get stats on the population
+
+Start making subgroups to compare subgroups to the population and subgroups to subgroups
+
+Focus on getting the biggest bang for your buck rather than counting toenails on an ant.
+
+
